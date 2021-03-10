@@ -1,0 +1,7 @@
+[Mon Mar 08 14:33:34.647389 2021] [wsgi:error] [pid 25648:tid 1232] [client ::1:58765] Not Found: /favicon.ico\r, referer: http://localhost/
+[Mon Mar 08 15:00:34.154148 2021] [wsgi:error] [pid 25272:tid 1280] [client ::1:59187] Not Found: /favicon.ico\r, referer: http://localhost/
+[Mon Mar 08 16:09:04.919428 2021] [wsgi:error] [pid 7300:tid 1228] [client ::1:50623] Not Found: /favicon.ico\r, referer: http://localhost/about
+[Mon Mar 08 16:19:58.742092 2021] [wsgi:error] [pid 12332:tid 1280] [client ::1:50683] Not Found: /favicon.ico\r, referer: http://localhost/
+[Mon Mar 08 16:25:32.058320 2021] [wsgi:error] [pid 13168:tid 1340] [client ::1:50767] Not Found: /favicon.ico\r, referer: http://localhost/
+[Mon Mar 08 16:48:03.222309 2021] [wsgi:error] [pid 17900:tid 1280] [client ::1:51088] Not Found: /favicon.ico\r, referer: http://localhost/
+[Mon Mar 08 16:51:00.234961 2021] [wsgi:error] [pid 17900:tid 1280] [client ::1:51131] Not Found: /favicon.ico\r, referer: http://localhost/
